@@ -3,3 +3,5 @@ An Xcode12 project for iOS that implements a simple 2D SpriteKit "Break Out" sty
 
 - A very small game that shows to power of SpriteKit and the built-in physics engine with almost no code
 - Integration of frameworks for cool and challenging play as the game moves around in 3D space.
+
+![Screen Shot](./SimulatorScreenShot.png)
